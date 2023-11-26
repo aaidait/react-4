@@ -5,28 +5,28 @@ import React, { useState } from "react";
 const DATA = [
   {
     id: 1,
-    title: '$',
-    body: 'jjj'
+    title: 'title-1',
+    body: 'some-text'
   },
   {
     id: 2, 
-    title: '$',
-    body: 'jjj'
+    title: 'title-2',
+    body: 'some-text'
   },
   {
     id: 3,
-    title: '$',
-    body: 'jjj'
+    title: 'title-3',
+    body: 'some-text'
   },
   {
     id: 4,
-    title: '$',
-    body: 'jjj'
+    title: 'title-4',
+    body: 'some-text'
   },
   {
     id: 5,
-    title: '$',
-    body: 'jjj'
+    title: 'title-5',
+    body: 'some-text'
   }
 ];
 
